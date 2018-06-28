@@ -1,0 +1,2 @@
+class API(object):
+    pass

@@ -1,0 +1,2 @@
+class CONTACTHUB(object):
+    pass

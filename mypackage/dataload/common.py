@@ -1,0 +1,2 @@
+class DATALOAD(object):
+    pass

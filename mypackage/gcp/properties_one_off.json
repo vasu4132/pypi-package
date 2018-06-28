@@ -1,0 +1,10 @@
+ {
+        "RuleList": [{
+                      "RuleNumber": 1,
+                      "hiveTable":"SERVICESDFIBF.DF_INSTALLED_PRODUCT_F",
+                      "bucketPath":"gs://gvscs-sandbox/temp",
+                      "bqTableName":"cisco.df_installed_product_f",
+                      "Process":"hadoop2gcpBucket"
+                 }]
+}
+
