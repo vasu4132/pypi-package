@@ -17,3 +17,7 @@ from mypackage.dataload.common import DATALOAD
 from mypackage.gcp.common import GCP
 from mypackage.utils.common import UTILS
 
+
+from ._version import get_versions
+__version__ = get_versions()['version']
+del get_versions
